@@ -1,3 +1,5 @@
+THIS IS SOMETHING I WROTE, MANY YEARS AGO. I FORKED IT JUST BECAUSE I WANTED IT
+
 Hashcracker
 ===========
 
@@ -17,4 +19,3 @@ GENERAL USAGE NOTES
 SUGGESTIONS
 ===========
 If you have any problems with Hashcracker, or would like to see anything added, please contact me at dboxall123@gmail.com.
-I will be adding a GUI soon.
